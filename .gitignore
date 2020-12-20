@@ -1,2 +1,7 @@
+.idea
+out
+target
 *.iml
-*.xml
+log
+*.patch
+test

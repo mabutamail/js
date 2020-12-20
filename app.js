@@ -31,6 +31,11 @@
 const isProgrammer = true
 const name = "Zalex"
 const age = 33
+let x
 console.log(typeof isProgrammer)
 console.log(typeof name)
 console.log(typeof age)
+console.log(typeof x)
+
+//  5   приоритет операторов
+
